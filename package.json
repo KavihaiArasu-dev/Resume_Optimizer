@@ -1,0 +1,11 @@
+{
+  "name": "resume-optimizer-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI Resume Optimizer root convenience scripts",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "start": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build"
+  }
+}
